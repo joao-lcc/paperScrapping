@@ -1,5 +1,5 @@
 streamlit
 pandas
-exa_apy
+exa_py
 os
 dotenv
